@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520e7dd6-5d83-4b3b-a500-38518b58474c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/out/production/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/out/production/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license-service/out/production/classes/com/example/licenseservice/controller/LicenseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/license-service/out/production/classes/com/example/licenseservice/controller/LicenseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/controller/LicenseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/controller/LicenseController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/config-server/.gradle/" />
     <ignored path="$PROJECT_DIR$/config-server/build/" />
@@ -36,84 +40,48 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="4" />
-          <entry key="gradle" value="1" />
-          <entry key="java" value="4" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="9" />
           <entry key="txt" value="1" />
-          <entry key="yml" value="12" />
+          <entry key="yml" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="4" />
-          <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="4" />
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="YAML" value="12" />
+          <entry key="YAML" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="5" />
-          <entry key="java" value="126" />
+          <entry key="java" value="133" />
           <entry key="txt" value="25" />
-          <entry key="yml" value="247" />
+          <entry key="yml" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="5" />
-          <entry key="JAVA" value="126" />
+          <entry key="JAVA" value="133" />
           <entry key="PLAIN_TEXT" value="25" />
-          <entry key="YAML" value="247" />
+          <entry key="YAML" value="282" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/license-service/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/license-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -574,12 +542,13 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/config-server" value="6147637272750" />
+        <entry key="$PROJECT_DIR$/config-server" value="6148637503288" />
         <entry key="$PROJECT_DIR$/config-server/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/config-server/build.gradle" value="2149348789" />
         <entry key="$PROJECT_DIR$/config-server/gradle/wrapper/gradle-wrapper.properties" value="3603921981" />
         <entry key="$PROJECT_DIR$/config-server/settings.gradle" value="2457386990" />
-        <entry key="$PROJECT_DIR$/license-service" value="6147658825024" />
+        <entry key="$PROJECT_DIR$/license-service" value="6148637503348" />
+        <entry key="$PROJECT_DIR$/license-service/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/license-service/build.gradle" value="1870014934" />
         <entry key="$PROJECT_DIR$/license-service/gradle/wrapper/gradle-wrapper.properties" value="3603921981" />
         <entry key="$PROJECT_DIR$/license-service/settings.gradle" value="3370595952" />
@@ -814,14 +783,14 @@
       <list>
         <option value="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/config-server/src/main/java/com/example/configserver/ConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/config-repo/license-service/license-service.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/license-service/.gitignore" />
         <option value="$PROJECT_DIR$/config-server/.gitignore" />
-        <option value="$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/controller/LicenseController.java" />
-        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/license-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/license-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/controller/LicenseController.java" />
+        <option value="$PROJECT_DIR$/config-repo/license-service/license-service.yml" />
       </list>
     </option>
   </component>
@@ -889,12 +858,37 @@
               <item name="license-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="license-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="licenseservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="license-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="licenseservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="license-service" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -909,25 +903,19 @@
             </path>
             <path>
               <item name="config-server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="config-server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="config-repo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="license-service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="config-server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="config-server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="config-server_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="config-server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="config-server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="config-server_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="license-service" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -940,7 +928,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536920084106" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537170840789" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="JDK1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -968,7 +956,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+  <component name="RunManager" selected="Spring Boot.LicenseServiceApplication">
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config-server_main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
@@ -999,6 +987,7 @@
       <option name="presentableId" value="Default" />
       <updated>1536909266152</updated>
       <workItem from="1536909267412" duration="6151000" />
+      <workItem from="1537159384903" duration="4740000" />
     </task>
     <task id="LOCAL-00001" summary="config-repo">
       <created>1536915744883</created>
@@ -1032,7 +1021,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6151000" />
+    <option name="totallyTimeSpent" value="10891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1043,7 +1032,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3214826" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2322239" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Spring" order="1" />
@@ -1058,8 +1047,8 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Run" order="13" weight="0.77868855" />
-      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="13" visible="true" weight="0.33606556" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3295082" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -1092,34 +1081,9 @@
         <state relative-caret-position="-357" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-repo/license-service/license-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/license-service/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/license-service/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/config-server/.gitignore" />
     <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/example/configserver/ConfigServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1127,35 +1091,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/controller/LicenseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/LicenseServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-repo/readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/readme.txt" />
     <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1163,17 +1099,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/LicenseServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/license-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/license-service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/license-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/license-service/src/main/java/com/example/licenseservice/controller/LicenseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-repo/license-service/license-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repo/gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.19.RELEASE/3b6525fae73d6f0763e70ce766dabb9c91a154d4/spring-beans-4.3.19.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="347" column="88" lean-forward="true" selection-start-line="347" selection-start-column="88" selection-end-line="347" selection-end-column="88" />
         </state>
       </provider>
     </entry>
