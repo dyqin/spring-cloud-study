@@ -2,13 +2,17 @@ server:
   port: 8000
 
 spring:
-  profiles:
-    active: native
+#  profiles:
+#    active: native
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/dyqin/spring-cloud-study/
-          search-paths: config-repo/license-service
+          uri: https://github.com/dyqin/spring-cloud-study
+          basedir: /config-repo
+          searchPaths: /**, license-service
           username: deyuanqin@163.com
           password: ZHIhuzheye111
+          default-label: master
+
+

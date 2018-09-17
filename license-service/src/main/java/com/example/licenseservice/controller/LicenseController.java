@@ -11,6 +11,7 @@ public class LicenseController {
     @Value("${test.testString}")
     private  String testString;
 
+    @RequestMapping("/")
     public String index() {
         return "license index: " + this.testString;
     }
